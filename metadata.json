@@ -1,0 +1,6 @@
+{
+  "name": "AetherKeys — Virtuelni CV Klavir i Sintisajzer",
+  "description": "Polifonijski virtuelni klavir i sintisajzer upravljan pokretima prstiju pred kamerom u realnom vremenu pomoću MediaPipe Hands računarskog vida i Web Audio API sinteze.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
